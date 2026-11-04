@@ -11,14 +11,6 @@
       "icon_key": "NanoDNS"
     },
     {
-      "name": "MB PS5 Debug",
-      "filename": "MB_PS5_Debug_1.3.0.elf",
-      "url": "https://github.com/Master-B-Studios/homepage/raw/refs/heads/main/games/PlayStation%20Jailbreak/payloads/MB_PS5_Debug_1.3.0.elf",
-      "description": "PS5 Debug by Master Studios",
-      "version": "v1.3.0",
-      "icon_key": ""
-    },
-    {
       "name": "MB Toolbox",
       "filename": "MB_Toolbox_2.5.elf",
       "url": "https://github.com/Master-B-Studios/homepage/raw/refs/heads/main/games/PlayStation%20Jailbreak/payloads/MB_Toolbox_2.5.elf",
@@ -36,19 +28,11 @@
     },
     {
       "name": "PS5 Debug NG",
-      "filename": "PS5_Debug_NG_1.3.0.elf",
-      "url": "https://github.com/Master-B-Studios/homepage/raw/refs/heads/main/games/PlayStation%20Jailbreak/payloads/PS5_Debug_NG_1.3.0.elf",
-      "description": "PS5 Debug-NG",
-      "version": "v1.3.0",
-      "icon_key": "MB_NanoDNS"
-    },
-    {
-      "name": "PS5 Debug NG Scan",
       "filename": "PS5_Debug_NG_Scan_1.3.0.elf",
       "url": "https://github.com/Master-B-Studios/homepage/raw/refs/heads/main/games/PlayStation%20Jailbreak/payloads/PS5_Debug_NG_Scan_1.3.0.elf",
       "description": "PS5 Debug-NG mit Pointerscan",
       "version": "v1.3.0",
-      "icon_key": "MB_NanoDNS"
+      "icon_key": "Debug"
     },
     {
       "name": "PS5 etaHEN 2.5B",
