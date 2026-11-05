@@ -56,7 +56,7 @@
       "url": "https://github.com/ps5/raw/refs/heads/main/payloads/PS5_FakeSignIn_1.1.elf",
       "description": "Nach der Offline-Aktivierung eines Accounts durch etaHEN kann man mit FakeSignIn Remote-Play und USB-Speicherdaten-Transfer freischalten.",
       "version": "v1.1",
-      "icon_key": "MB_NanoDNS"
+      "icon_key": "PSN"
     },
     {
       "name": "PS5 KstuffLite 1.13-5",
