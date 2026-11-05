@@ -27,22 +27,6 @@
       "icon_key": "Debug"
     },
     {
-      "name": "PS etaHEN 2.5B",
-      "filename": "etaHEN_2.5B.bin",
-      "url": "https://github.com/Master-B-Studios/ps5/raw/refs/heads/main/payloads/etaHEN_2.5B.bin",
-      "description": "Backup von etaHEN um Einstellungen vorzunehmen, die mit MB Toolbox ausgeblendet sind.",
-      "version": "2.5B",
-      "icon_key": "Toolbox"
-    },
-    {
-      "name": "PS etaHEN 2.6B",
-      "filename": "etaHEN_2.6B.bin",
-      "url": "https://github.com/Master-B-Studios/ps5/raw/refs/heads/main/payloads/etaHEN_2.6B.bin",
-      "description": "Backup von etaHEN um Einstellungen vorzunehmen, die mit MB Toolbox ausgeblendet sind.",
-      "version": "2.6B",
-      "icon_key": "Toolbox"
-    },
-    {
       "name": "PS FakeSignIn",
       "filename": "FakeSignIn_1.1.elf",
       "url": "https://github.com/Master-B-Studios/ps5/raw/refs/heads/main/payloads/FakeSignIn_1.1.elf",
