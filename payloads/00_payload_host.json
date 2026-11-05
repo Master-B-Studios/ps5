@@ -83,12 +83,12 @@
       "icon_key": "MemoryCard"
     },
     {
-      "name": "PS5 ShadowMountPlus 1.7-11",
+      "name": "PS5 ShadowMountPlus 1.7.11",
       "filename": "PS5_ShadowMountPlus_1.7_Beta_11.elf",
       "url": "https://github.com/ps5/raw/refs/heads/main/payloads/PS5_ShadowMountPlus_1.7_Beta_11.elf",
       "description": "ShadowMountPlus von Drakmor mit FPKG-Support.",
-      "version": "v1.7-11",
-      "icon_key": "MB_NanoDNS"
+      "version": "v1.7.11",
+      "icon_key": "Disc"
     }
   ]
 }
