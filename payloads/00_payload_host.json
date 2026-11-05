@@ -19,73 +19,65 @@
       "icon_key": "Toolbox"
     },
     {
-      "name": "PS5 AppDumper",
-      "filename": "PS5_AppDumper_1.11.elf",
-      "url": "https://github.com/ps5/raw/refs/heads/main/payloads/PS5_AppDumper_1.11.elf",
+      "name": "AppDumper",
+      "filename": "AppDumper_1.11.elf",
+      "url": "https://github.com/ps5/raw/refs/heads/main/payloads/AppDumper_1.11.elf",
       "description": "Offizieller AppDumper von EchoStretch. Dumpt nur nach USB.",
       "version": "v1.11",
       "icon_key": "Dumper"
     },
     {
-      "name": "PS5 Debug NG",
-      "filename": "PS5_Debug_NG_Scan_1.3.0.elf",
-      "url": "https://github.com/ps5/raw/refs/heads/main/payloads/PS5_Debug_NG_Scan_1.3.0.elf",
+      "name": "Debug-NG Scan",
+      "filename": "Debug_NG_Scan_1.3.0.elf",
+      "url": "https://github.com/ps5/raw/refs/heads/main/payloads/Debug_NG_Scan_1.3.0.elf",
       "description": "PS5 Debug-NG mit Pointerscan",
       "version": "v1.3.0",
       "icon_key": "Debug"
     },
     {
-      "name": "PS5 etaHEN 2.5B",
-      "filename": "PS5_etaHEN_2.5B.bin",
-      "url": "https://github.com/ps5/raw/refs/heads/main/payloads/PS5_etaHEN_2.5B.bin",
+      "name": "etaHEN 2.5B",
+      "filename": "etaHEN_2.5B.bin",
+      "url": "https://github.com/ps5/raw/refs/heads/main/payloads/etaHEN_2.5B.bin",
       "description": "Backup von etaHEN um Einstellungen vorzunehmen, die mit MB Toolbox ausgeblendet sind.",
       "version": "v2.5B",
       "icon_key": "Toolbox"
     },
     {
-      "name": "PS5 etaHEN 2.6B",
-      "filename": "PS5_etaHEN_2.6B.bin",
-      "url": "https://github.com/ps5/raw/refs/heads/main/payloads/PS5_etaHEN_2.6B.bin",
+      "name": "etaHEN 2.6B",
+      "filename": "etaHEN_2.6B.bin",
+      "url": "https://github.com/ps5/raw/refs/heads/main/payloads/etaHEN_2.6B.bin",
       "description": "Backup von etaHEN um Einstellungen vorzunehmen, die mit MB Toolbox ausgeblendet sind.",
       "version": "v2.6B",
       "icon_key": "Toolbox"
     },
     {
-      "name": "PS5 FakeSignIn",
-      "filename": "PS5_FakeSignIn_1.1.elf",
-      "url": "https://github.com/ps5/raw/refs/heads/main/payloads/PS5_FakeSignIn_1.1.elf",
+      "name": "FakeSignIn",
+      "filename": "FakeSignIn_1.1.elf",
+      "url": "https://github.com/ps5/raw/refs/heads/main/payloads/FakeSignIn_1.1.elf",
       "description": "Nach der Offline-Aktivierung eines Accounts durch etaHEN kann man mit FakeSignIn Remote-Play und USB-Speicherdaten-Transfer freischalten.",
       "version": "v1.1",
       "icon_key": "PSN"
     },
     {
-      "name": "PS5 KstuffLite 1.13-5",
-      "filename": "PS5_KstuffLite_1.13_Test_5.elf",
-      "url": "https://github.com/ps5/raw/refs/heads/main/payloads/PS5_KstuffLite_1.13_Test_5.elf",
-      "description": "Kstuff von Drakmor mit FPKG-Support.",
-      "version": "v1.13-5",
-      "icon_key": "Kstuff"
-    },
-    {
-      "name": "PS5 KstuffLite 1.13-8",
-      "filename": "PS5_KstuffLite_1.13_Test_8.elf",
-      "url": "https://github.com/ps5/raw/refs/heads/main/payloads/PS5_KstuffLite_1.13_Test_8.elf",
+      "name": "Kstuff 1.13-8",
+      "filename": "PS5_Kstuff_1.13-8.elf",
+      "url": "https://github.com/ps5/raw/refs/heads/main/payloads/Kstuff_1.13-8.elf",
       "description": "Kstuff von Drakmor mit FPKG-Support.",
       "version": "v1.13-8",
       "icon_key": "Kstuff"
     },
     {
-      "name": "PS5 SaveManager",
-      "filename": "PS5_SaveManager_1.7.elf",
-      "url": "https://github.com/ps5/raw/refs/heads/main/payloads/payloads/PS5_SaveManager_1.7.elf",
+      "name": "SaveManager",
+      "filename": "SaveManager_1.7.elf",
+      "url": "https://github.com/ps5/raw/refs/heads/main/payloads/payloads/SaveManager_1.7.elf",
       "description": "SaveManager zum Decrypten und Encrypten.",
       "version": "v1.7",
       "icon_key": "MemoryCard"
     },
     {
-      "name": "PS5 ShadowMountPlus 1.7.11",
-      "filename": "PS5_ShadowMountPlus_1.7_Beta_11.elf",
-      "url": "https://github.com/ps5/raw/refs/heads/main/payloads/PS5_ShadowMountPlus_1.7_Beta_11.elf",
+      "name": "ShadowMountPlus 1.7.11",
+      "filename": "ShadowMountPlus_1.7_Beta_11.elf",
+      "url": "https://github.com/ps5/raw/refs/heads/main/payloads/ShadowMountPlus_1.7-11.elf",
       "description": "ShadowMountPlus von Drakmor mit FPKG-Support.",
       "version": "v1.7.11",
       "icon_key": "Disc"
