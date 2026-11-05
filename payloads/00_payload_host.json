@@ -77,9 +77,9 @@
     {
       "name": "SMP Test",
       "filename": "ShadowMountPlus_1.7-11.elf",
-      "url": "https://github.com/ps5/raw/refs/heads/main/payloads/ShadowMountPlus_1.7-11.elf",
+      "url": "https://github.com/ps5/blob/main/payloads/ShadowMountPlus_1.7-11.elf",
       "description": "ShadowMountPlus von Drakmor mit FPKG-Support.",
-      "version": "v1.7-11",
+      "version": "1.7-11",
       "icon_key": "Disc"
     },
     {
