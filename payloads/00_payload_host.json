@@ -11,14 +11,6 @@
       "icon_key": "NanoDNS"
     },
     {
-      "name": "MB Toolbox",
-      "filename": "MB_Toolbox_2.5.elf",
-      "url": "https://github.com/Master-B-Studios/ps5/raw/refs/heads/main/payloads/MB_Toolbox_2.5.elf",
-      "description": "Custom-Version von etaHEN 2.5b. Deutsches Layout. Neue Navigationsstruktur und viele Optionen entfernt. Bug: Messages funktionieren nicht.",
-      "version": "2.5",
-      "icon_key": "Toolbox"
-    },
-    {
       "name": "PS Debug-NG Scan",
       "filename": "Debug_NG_Scan_1.3.0.elf",
       "url": "https://github.com/Master-B-Studios/ps5/raw/refs/heads/main/payloads/Debug_NG_Scan_1.3.0.elf",
