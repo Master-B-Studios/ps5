@@ -59,7 +59,7 @@
       "icon_key": "PSN"
     },
     {
-      "name": "Kstuff 1.13-8",
+      "name": "Kstuff Test",
       "filename": "PS5_Kstuff_1.13-8.elf",
       "url": "https://github.com/ps5/raw/refs/heads/main/payloads/Kstuff_1.13-8.elf",
       "description": "Kstuff von Drakmor mit FPKG-Support.",
@@ -75,12 +75,20 @@
       "icon_key": "MemoryCard"
     },
     {
-      "name": "ShadowMountPlus 1.7.11",
-      "filename": "ShadowMountPlus_1.7_Beta_11.elf",
+      "name": "SMP Test",
+      "filename": "ShadowMountPlus_1.7-11.elf",
       "url": "https://github.com/ps5/raw/refs/heads/main/payloads/ShadowMountPlus_1.7-11.elf",
       "description": "ShadowMountPlus von Drakmor mit FPKG-Support.",
-      "version": "v1.7.11",
+      "version": "v1.7-11",
       "icon_key": "Disc"
+    },
+    {
+      "name": "Explorer",
+      "filename": "Explorer_0.4.9.elf",
+      "url": "https://github.com/ps5/raw/refs/heads/main/payloads/Explorer_0.4.9.elf",
+      "description": "BFPilot-Klon. Basis zum Recompile",
+      "version": "v0.4.9",
+      "icon_key": "Explorer"
     }
   ]
 }
