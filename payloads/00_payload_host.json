@@ -88,7 +88,7 @@
       "url": "https://github.com/Master-B-Studios/ps5/raw/refs/heads/main/payloads/Explorer_0.4.9.elf",
       "description": "BFPilot-Klon. Basis zum Recompile",
       "version": "0.4.9",
-      "icon_key": "NAS"
+      "icon_key": "Explorer"
     }
   ]
 }
