@@ -19,15 +19,7 @@
       "icon_key": "Toolbox"
     },
     {
-      "name": "AppDumper",
-      "filename": "AppDumper_1.11.elf",
-      "url": "https://github.com/Master-B-Studios/ps5/raw/refs/heads/main/payloads/AppDumper_1.11.elf",
-      "description": "Offizieller AppDumper von EchoStretch. Dumpt nur nach USB.",
-      "version": "1.11",
-      "icon_key": "Dumper"
-    },
-    {
-      "name": "Debug-NG Scan",
+      "name": "PS Debug-NG Scan",
       "filename": "Debug_NG_Scan_1.3.0.elf",
       "url": "https://github.com/Master-B-Studios/ps5/raw/refs/heads/main/payloads/Debug_NG_Scan_1.3.0.elf",
       "description": "PS5 Debug-NG mit Pointerscan",
@@ -35,7 +27,7 @@
       "icon_key": "Debug"
     },
     {
-      "name": "etaHEN 2.5B",
+      "name": "PS etaHEN 2.5B",
       "filename": "etaHEN_2.5B.bin",
       "url": "https://github.com/Master-B-Studios/ps5/raw/refs/heads/main/payloads/etaHEN_2.5B.bin",
       "description": "Backup von etaHEN um Einstellungen vorzunehmen, die mit MB Toolbox ausgeblendet sind.",
@@ -43,7 +35,7 @@
       "icon_key": "Toolbox"
     },
     {
-      "name": "etaHEN 2.6B",
+      "name": "PS etaHEN 2.6B",
       "filename": "etaHEN_2.6B.bin",
       "url": "https://github.com/Master-B-Studios/ps5/raw/refs/heads/main/payloads/etaHEN_2.6B.bin",
       "description": "Backup von etaHEN um Einstellungen vorzunehmen, die mit MB Toolbox ausgeblendet sind.",
@@ -51,7 +43,7 @@
       "icon_key": "Toolbox"
     },
     {
-      "name": "FakeSignIn",
+      "name": "PS FakeSignIn",
       "filename": "FakeSignIn_1.1.elf",
       "url": "https://github.com/Master-B-Studios/ps5/raw/refs/heads/main/payloads/FakeSignIn_1.1.elf",
       "description": "Nach der Offline-Aktivierung eines Accounts durch etaHEN kann man mit FakeSignIn Remote-Play und USB-Speicherdaten-Transfer freischalten.",
@@ -59,7 +51,7 @@
       "icon_key": "PSN"
     },
     {
-      "name": "Kstuff Test",
+      "name": "PS Kstuff Test",
       "filename": "PS5_Kstuff_1.13-8.elf",
       "url": "https://github.com/Master-B-Studios/ps5/raw/refs/heads/main/payloads/Kstuff_1.13-8.elf",
       "description": "Kstuff von Drakmor mit FPKG-Support.",
@@ -67,7 +59,7 @@
       "icon_key": "Kstuff"
     },
     {
-      "name": "SaveManager",
+      "name": "PS SaveManager",
       "filename": "SaveManager_1.7.elf",
       "url": "https://github.com/Master-B-Studios/ps5/raw/refs/heads/main/payloads/payloads/SaveManager_1.7.elf",
       "description": "SaveManager zum Decrypten und Encrypten.",
@@ -75,7 +67,7 @@
       "icon_key": "MemoryCard"
     },
     {
-      "name": "SMP Test",
+      "name": "PS SMP Test",
       "filename": "ShadowMountPlus_1.7-11.elf",
       "url": "https://github.com/Master-B-Studios/ps5/raw/refs/heads/main/payloads/ShadowMountPlus_1.7-11.elf",
       "description": "ShadowMountPlus von Drakmor mit FPKG-Support.",
@@ -83,7 +75,7 @@
       "icon_key": "Disc"
     },
     {
-      "name": "Explorer",
+      "name": "PS Explorer",
       "filename": "Explorer_0.4.9.elf",
       "url": "https://github.com/Master-B-Studios/ps5/raw/refs/heads/main/payloads/Explorer_0.4.9.elf",
       "description": "BFPilot-Klon. Basis zum Recompile",
