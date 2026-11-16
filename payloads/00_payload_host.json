@@ -35,7 +35,7 @@
       "icon_key": "PSN"
     },
     {
-      "name": "PS Kstuff Test",
+      "name": "PS Kstuff",
       "filename": "PS5_Kstuff_1.13-8.elf",
       "url": "https://github.com/Master-B-Studios/ps5/raw/refs/heads/main/payloads/Kstuff_1.13-8.elf",
       "description": "Kstuff von Drakmor mit FPKG-Support.",
@@ -51,7 +51,7 @@
       "icon_key": "MemoryCard"
     },
     {
-      "name": "PS SMP Test",
+      "name": "PS ShadowMount",
       "filename": "ShadowMountPlus_1.7-11.elf",
       "url": "https://github.com/Master-B-Studios/ps5/raw/refs/heads/main/payloads/ShadowMountPlus_1.7-11.elf",
       "description": "ShadowMountPlus von Drakmor mit FPKG-Support.",
