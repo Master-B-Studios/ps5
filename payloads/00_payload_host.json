@@ -3,6 +3,14 @@
   "icons_url": "00_payload_icons.json",
   "payloads": [
     {
+      "name": "MB Explorer",
+      "filename": "MB_Explorer_1.0.elf",
+      "url": "https://github.com/Master-B-Studios/ps5/raw/refs/heads/main/payloads/MB_Explorer_1.0.elf",
+      "description": "File-Manager mit SMB-Support. Port: 8888",
+      "version": "1.0",
+      "icon_key": "Explorer"
+    },
+    {
       "name": "MB NanoDNS",
       "filename": "MB_NanoDNS_0.3.elf",
       "url": "https://github.com/Master-B-Studios/ps5/raw/refs/heads/main/payloads/MB_NanoDNS_0.3.elf",
@@ -49,14 +57,6 @@
       "description": "ShadowMountPlus von Drakmor mit FPKG-Support.",
       "version": "1.7-11",
       "icon_key": "Disc"
-    },
-    {
-      "name": "PS Explorer",
-      "filename": "Explorer_0.4.9.elf",
-      "url": "https://github.com/Master-B-Studios/ps5/raw/refs/heads/main/payloads/Explorer_0.4.9.elf",
-      "description": "BFPilot-Klon. Basis zum Recompile",
-      "version": "0.4.9",
-      "icon_key": "Explorer"
     }
   ]
 }
