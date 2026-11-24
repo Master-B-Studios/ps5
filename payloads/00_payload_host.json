@@ -3,6 +3,14 @@
   "icons_url": "00_payload_icons.json",
   "payloads": [
     {
+      "name": "MB Explorer",
+      "filename": "MB_Explorer_1.0.elf",
+      "url": "https://github.com/Master-B-Studios/ps5/raw/refs/heads/main/payloads/MB_Explorer_1.0.elf",
+      "description": "File-Manager mit SMB-Support. Port: 8888",
+      "version": "1.0",
+      "icon_key": "Explorer"
+    },
+    {
       "name": "MB NanoDNS",
       "filename": "MB_NanoDNS_0.3.elf",
       "url": "https://github.com/Master-B-Studios/ps5/raw/refs/heads/main/payloads/MB_NanoDNS_0.3.elf",
@@ -12,51 +20,43 @@
     },
     {
       "name": "PS Debug-NG Scan",
-      "filename": "Debug_NG_Scan_1.3.0.elf",
-      "url": "https://github.com/Master-B-Studios/ps5/raw/refs/heads/main/payloads/Debug_NG_Scan_1.3.0.elf",
+      "filename": "PS_Debug_NG_Scan_1.3.0.elf",
+      "url": "https://github.com/Master-B-Studios/ps5/raw/refs/heads/main/payloads/PS_Debug_NG_Scan_1.3.0.elf",
       "description": "PS5 Debug-NG mit Pointerscan",
       "version": "1.3.0",
       "icon_key": "Debug"
     },
     {
       "name": "PS FakeSignIn",
-      "filename": "FakeSignIn_1.1.elf",
-      "url": "https://github.com/Master-B-Studios/ps5/raw/refs/heads/main/payloads/FakeSignIn_1.1.elf",
+      "filename": "PS_FakeSignIn_1.1.elf",
+      "url": "https://github.com/Master-B-Studios/ps5/raw/refs/heads/main/payloads/PS_FakeSignIn_1.1.elf",
       "description": "Nach der Offline-Aktivierung eines Accounts durch etaHEN kann man mit FakeSignIn Remote-Play und USB-Speicherdaten-Transfer freischalten.",
       "version": "1.1",
       "icon_key": "PSN"
     },
     {
-      "name": "PS Kstuff Test",
-      "filename": "PS5_Kstuff_1.13-8.elf",
-      "url": "https://github.com/Master-B-Studios/ps5/raw/refs/heads/main/payloads/Kstuff_1.13-8.elf",
+      "name": "PS Kstuff",
+      "filename": "PS_Kstuff_1.13-8.elf",
+      "url": "https://github.com/Master-B-Studios/ps5/raw/refs/heads/main/payloads/PS_Kstuff_1.13-8.elf",
       "description": "Kstuff von Drakmor mit FPKG-Support.",
       "version": "1.13-8",
       "icon_key": "Kstuff"
     },
     {
       "name": "PS SaveManager",
-      "filename": "SaveManager_1.7.elf",
-      "url": "https://github.com/Master-B-Studios/ps5/raw/refs/heads/main/payloads/payloads/SaveManager_1.7.elf",
+      "filename": "PS_SaveManager_1.7.elf",
+      "url": "https://github.com/Master-B-Studios/ps5/raw/refs/heads/main/payloads/payloads/PS_SaveManager_1.7.elf",
       "description": "SaveManager zum Decrypten und Encrypten.",
       "version": "1.7",
       "icon_key": "MemoryCard"
     },
     {
-      "name": "PS SMP Test",
-      "filename": "ShadowMountPlus_1.7-11.elf",
-      "url": "https://github.com/Master-B-Studios/ps5/raw/refs/heads/main/payloads/ShadowMountPlus_1.7-11.elf",
+      "name": "PS ShadowMount",
+      "filename": "PS_ShadowMountPlus_1.7-11.elf",
+      "url": "https://github.com/Master-B-Studios/ps5/raw/refs/heads/main/payloads/PS_ShadowMountPlus_1.7-11.elf",
       "description": "ShadowMountPlus von Drakmor mit FPKG-Support.",
       "version": "1.7-11",
       "icon_key": "Disc"
-    },
-    {
-      "name": "PS Explorer",
-      "filename": "Explorer_0.4.9.elf",
-      "url": "https://github.com/Master-B-Studios/ps5/raw/refs/heads/main/payloads/Explorer_0.4.9.elf",
-      "description": "BFPilot-Klon. Basis zum Recompile",
-      "version": "0.4.9",
-      "icon_key": "Explorer"
     }
   ]
 }
