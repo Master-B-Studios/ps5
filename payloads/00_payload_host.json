@@ -19,6 +19,14 @@
       "icon_key": "NanoDNS"
     },
     {
+      "name": "MB Payload Manager",
+      "filename": "MB_PayloadManager_1.0.elf",
+      "url": "https://github.com/Master-B-Studios/ps5/raw/refs/heads/main/payloads/MB_PayloadManager_1.0.elf",
+      "description": "Custom-Version von itsPLK. Andere Icons und Farben.",
+      "version": "1.0",
+      "icon_key": "Kstuff"
+    },
+    {
       "name": "PS Debug-NG Scan",
       "filename": "PS_Debug_NG_Scan_1.3.0.elf",
       "url": "https://github.com/Master-B-Studios/ps5/raw/refs/heads/main/payloads/PS_Debug_NG_Scan_1.3.0.elf",
