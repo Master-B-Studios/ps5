@@ -19,6 +19,14 @@
       "icon_key": "Disc"
     },
     {
+      "name": "GTA 6 Menu Loader",
+      "filename": "GTA_6_MenuLoader.elf",
+      "url": "https://github.com/Master-B-Studios/ps5/raw/refs/heads/main/payloads/GTA_6_MenuLoader.elf",
+      "description": "Cheat-Menu - Rechts + R3",
+      "version": "1.0",
+      "icon_key": "Disc"
+    },
+    {
       "name": "MB Explorer",
       "filename": "MB_Explorer_1.0.elf",
       "url": "https://github.com/Master-B-Studios/ps5/raw/refs/heads/main/payloads/MB_Explorer_1.0.elf",
