@@ -3,6 +3,22 @@
   "icons_url": "00_payload_icons.json",
   "payloads": [
     {
+      "name": "GTA 6 BP-Activator",
+      "filename": "GTA_6_BPActivator.elf",
+      "url": "https://github.com/Master-B-Studios/ps5/raw/refs/heads/main/payloads/GTA_6_BPActivator.elf",
+      "description": "Aktiviert Backports für GTA 6",
+      "version": "1.0",
+      "icon_key": "Disc"
+    },
+    {
+      "name": "GTA 6 BP-Restore",
+      "filename": "GTA_6_BPRestore.elf",
+      "url": "https://github.com/Master-B-Studios/ps5/raw/refs/heads/main/payloads/GTA_6_BPRestore.elf",
+      "description": "Stellt die Original-File wieder her. Nur Spielbar  ab FW 12.XX",
+      "version": "1.0",
+      "icon_key": "Disc"
+    },
+    {
       "name": "MB Explorer",
       "filename": "MB_Explorer_1.0.elf",
       "url": "https://github.com/Master-B-Studios/ps5/raw/refs/heads/main/payloads/MB_Explorer_1.0.elf",
